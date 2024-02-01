@@ -1,0 +1,7 @@
+edu\escuelaing\arep\app\server\HTTPApiConection.class
+edu\escuelaing\arep\app\classwork\EchoServer.class
+edu\escuelaing\arep\app\server\HttpServer.class
+edu\escuelaing\arep\app\classwork\EchoClient.class
+edu\escuelaing\arep\app\server\Cache.class
+edu\escuelaing\arep\app\classwork\URLReader.class
+edu\escuelaing\arep\app\classwork\App.class
